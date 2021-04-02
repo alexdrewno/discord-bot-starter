@@ -1,5 +1,5 @@
-# 📓 Chatty Bot
-A Discord Bot to save chat logs in an SQL database
+# Discord Bot Starter Code
+The starter code for a discord bot in Python3 
 
 ## Dependencies & Installation via pip3
 * discord : ```pip3 install discord```
